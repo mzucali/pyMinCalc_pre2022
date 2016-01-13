@@ -1,0 +1,2 @@
+# pyMinCalc
+python mineral calculation
